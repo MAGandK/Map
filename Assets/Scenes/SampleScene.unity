@@ -383,6 +383,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06d1a8693672b43289df9fd271e5892d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MapMain: {fileID: 1953532302}
   MapMarker: {fileID: 226551930}
   PointPosition: {fileID: 208599738}
 --- !u!1 &373999392
